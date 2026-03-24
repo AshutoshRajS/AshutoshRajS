@@ -1,13 +1,19 @@
-👋 Hi, I’m @AshutoshRajS
+👋 Hi, I’m **Ashutosh Raj**
 
-👀 I’m passionate about AI, machine learning, and web development. I love creating intelligent systems, from chatbots and face recognition to dynamic web applications. Recently, I’ve been diving into deepfake technology and generative AI for video.
+🚀 I’m passionate about **Artificial Intelligence, Machine Learning, and Web Development**. I enjoy building intelligent systems—from chatbots and face recognition models to dynamic, full-stack web applications.
 
-🌱 Currently learning advanced face recognition with OpenCV, customer segmentation, and building AI-driven question management systems.
+🧠 Currently, I’m diving deeper into **Advanced Deep Learning** and **Natural Language Processing (NLP)**, while working on AI-driven question management systems.
 
-💞️ Looking to collaborate on AI/ML projects, deepfake tech, and innovative web solutions.
+🎯 I’m especially interested in **Generative AI** and **Deepfake technology**, exploring how synthetic media can be applied to real-world problems.
 
-⚡ Fun fact: I enjoy blending cutting-edge AI into real-world applications, turning sci-fi concepts into reality!
-<!---
-AshutoshRajS/AshutoshRajS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤝 I’m open to collaborating on:
+
+* AI/ML projects
+* Generative AI & Deepfake tech
+* Innovative web-based solutions
+
+⚡ **Fun fact:** I love turning sci-fi ideas into real-world applications using AI.
+
+---
+
+✨ *Let’s build something impactful together!*
